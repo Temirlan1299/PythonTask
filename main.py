@@ -8,3 +8,6 @@ print(result1 *2)
 #3
 result2 = result1 - result1
 print(result2)
+#4
+result = np.array([[1,2], [3,4]])
+print(result*result)
